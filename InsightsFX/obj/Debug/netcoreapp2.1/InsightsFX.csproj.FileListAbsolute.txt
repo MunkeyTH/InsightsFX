@@ -1,0 +1,11 @@
+C:\Dev\InsightsFX\InsightsFX\bin\Debug\netcoreapp2.1\InsightsFX.deps.json
+C:\Dev\InsightsFX\InsightsFX\bin\Debug\netcoreapp2.1\InsightsFX.runtimeconfig.json
+C:\Dev\InsightsFX\InsightsFX\bin\Debug\netcoreapp2.1\InsightsFX.runtimeconfig.dev.json
+C:\Dev\InsightsFX\InsightsFX\bin\Debug\netcoreapp2.1\InsightsFX.dll
+C:\Dev\InsightsFX\InsightsFX\bin\Debug\netcoreapp2.1\InsightsFX.pdb
+C:\Dev\InsightsFX\InsightsFX\obj\Debug\netcoreapp2.1\InsightsFX.csprojAssemblyReference.cache
+C:\Dev\InsightsFX\InsightsFX\obj\Debug\netcoreapp2.1\InsightsFX.csproj.CoreCompileInputs.cache
+C:\Dev\InsightsFX\InsightsFX\obj\Debug\netcoreapp2.1\InsightsFX.AssemblyInfoInputs.cache
+C:\Dev\InsightsFX\InsightsFX\obj\Debug\netcoreapp2.1\InsightsFX.AssemblyInfo.cs
+C:\Dev\InsightsFX\InsightsFX\obj\Debug\netcoreapp2.1\InsightsFX.dll
+C:\Dev\InsightsFX\InsightsFX\obj\Debug\netcoreapp2.1\InsightsFX.pdb
