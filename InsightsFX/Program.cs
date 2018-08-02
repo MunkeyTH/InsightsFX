@@ -7,7 +7,9 @@ namespace InsightsFX
         //Welcome to InsightsFX Framework Code
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to InsightsFX");
+            Console.WriteLine("Waiting for stream...");
+
         }
     }
 }
